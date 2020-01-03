@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTextView">
+        <attr name="fontCustomTextView" format="integer">
+            <enum name="iranSans" value="1" />
+            <enum name="iranSansBold" value="2" />
+            <enum name="bYekan" value="3" />
+            />
+
+        </attr>
+
+    </declare-styleable>
+
+
+    <declare-styleable name="MyEditText">
+        <attr name="fontCustomEditText" format="integer">
+            <enum name="iranSans" value="1" />
+            <enum name="iranSansBold" value="2" />
+            <enum name="bYekan" value="3" />/>
+
+        </attr>
+
+    </declare-styleable>
+
+    <declare-styleable name="MyButton">
+        <attr name="fontCustomButton" format="integer">
+            <enum name="iranSans" value="1" />
+            <enum name="iranSansBold" value="2" />
+            <enum name="bYekan" value="3" />/>
+
+        </attr>
+
+    </declare-styleable>
+
+</resources>
